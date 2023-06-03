@@ -1,0 +1,9 @@
+meta:
+  environment: jvm
+  toolchain:
+    name: gradle
+    version: 17
+
+run:
+  jarName: chuck-norris-amvera-0.0.1-SNAPSHOT.jar
+  containerPort: 8080
